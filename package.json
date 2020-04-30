@@ -1,0 +1,26 @@
+{
+  "name": "webpack-guide",
+  "version": "1.0.0",
+  "description": "following the official webpack guide",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knopkem/webpack-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knopkem/webpack-guide/issues"
+  },
+  "homepage": "https://github.com/knopkem/webpack-guide#readme"
+}
